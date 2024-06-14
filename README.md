@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on creating ML projects<br>👯 I’m looking to collaborate with a team to create a advance ML model for a company<br>🤝 I’m looking for a internship in ML br>🌱 I’m currently learning PyTorch and Tensorflow<br>
+🔭 I’m currently working on creating ML projects<br>👯 I’m looking to collaborate with a team to create a advance ML model for a company<br>🤝 I’m looking for an internship in ML < br>🌱 I’m currently learning PyTorch and Tensorflow<br>
 
 
 ## 🌐 Socials:
